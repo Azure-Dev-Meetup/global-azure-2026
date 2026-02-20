@@ -215,10 +215,10 @@ params:
     themes:
         event:
             sessionizeId: l39raaao
-            title: medicon
+            title: Global Azure Munich
             shortTitle:
-            startDate: 2026-01-30
-            endDate: 2026-01-31
+            startDate: 2026-04-17
+            endDate: 2026-04-17
             address:
                 - Medialesson GmbH
                 - Habermehlstraße 15
