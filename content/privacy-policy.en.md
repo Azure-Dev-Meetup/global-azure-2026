@@ -1,58 +1,88 @@
-# Privacy Policy
+# Datenschutz
 
-**+++ THIS IS JUST A SAMPLE +++**
 
-Privacy Policy of Company Name
+**I. Informationen über die Verarbeitung Ihrer Daten gemäß Art. 13 der Datenschutz-Grundverordnung (DS-GVO)**
 
-Company Name operates the Website Name website, which provides the SERVICE.
+### **1. Verantwortlicher und Datenschutzbeauftragter**
 
-This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Website Name website.
+Verantwortlich für diese Website ist
 
-If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Thomas Pentenrieder \
+Kastanienweg 3a \
+82319 Starnberg
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Website URL, unless otherwise defined in this Privacy Policy.
+Den Datenschutzbeauftragten erreichen Sie per E-Mail unter
 
-## Information Collection and Use
+meetup@azuredev.org
 
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
-## Log Data
+### **2\. Daten, die für die Bereitstellung der Website und die Erstellung der Protokolldateien verarbeitet werden**
 
-We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer's Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+#### **a. Welche Daten werden für welchen Zweck verarbeitet?**
 
-## Cookies
+Bei jedem Zugriff auf Inhalte der Website werden vorübergehend Daten gespeichert, die möglicherweise eine Identifizierung zulassen. Die folgenden Daten werden hierbei erhoben:
 
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer's hard drive.
+\- Datum und Uhrzeit des Zugriffs
 
-Our website uses these “cookies” to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
+\- IP-Adresse
 
-## Service Providers
+\- Hostname des zugreifenden Rechners
 
-We may employ third-party companies and individuals due to the following reasons:
+\- Website, von der aus die Website aufgerufen wurde
 
--   To facilitate our Service;
--   To provide the Service on our behalf;
--   To perform Service-related services; or
--   To assist us in analyzing how our Service is used.
+\- Websites, die über die Website aufgerufen werden
 
-We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+\- Besuchte Seite auf unserer Website
 
-## Security
+\- Meldung, ob der Abruf erfolgreich war
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+\- Übertragene Datenmenge
 
-## Links to Other Sites
+\- Informationen über den Browsertyp und die verwendete Version
 
-Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+\- Betriebssystem
 
-Children's Privacy
+Die vorübergehende Speicherung der Daten ist für den Ablauf eines Websitebesuchs erforderlich, um eine Auslieferung der Website zu ermöglichen. Eine weitere Speicherung in Protokolldateien erfolgt, um die Funktionsfähigkeit der Website und die Sicherheit der informationstechnischen Systeme sicherzustellen. In diesen Zwecken liegt auch unser berechtigtes Interesse an der Datenverarbeitung.
 
-Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+#### **b. Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?**
 
-## Changes to This Privacy Policy
+Die Daten werden auf der Grundlage des Art. 6 Abs. 1 Buchstabe f DS-GVO verarbeitet.
 
-We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-## Contact Us
+#### **d. Wie lange werden die Daten gespeichert?**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zwecks ihrer Erhebung nicht mehr erforderlich sind. Bei der Bereitstellung der Website ist dies der Fall, wenn die jeweilige Sitzung beendet ist. Die Protokolldateien werden maximal bis zu 24 Stunden direkt und ausschließlich für Administratoren zugänglich aufbewahrt. Danach sind sie nur noch indirekt über die Rekonstruktion von Sicherungsbändern verfügbar und werden nach maximal vier Wochen endgültig gelöscht.
+
+### **3\. Betroffenenrechte**
+
+#### **a. Recht auf Auskunft**
+
+Sie können Auskunft nach Art. 15 DS-GVO über Ihre personenbezogenen Daten verlangen, die wir verarbeiten.
+
+#### **b. Recht auf Widerspruch:**
+
+Sie haben ein Recht auf Widerspruch aus besonderen Gründen (siehe unter Punkt II).
+
+#### **c. Recht auf Berichtigung**
+
+Sollten die Sie betreffenden Angaben nicht (mehr) zutreffend sein, können Sie nach Art. 16 DS-GVO eine Berichtigung verlangen. Sollten Ihre Daten unvollständig sein, können Sie eine Vervollständigung verlangen.
+
+#### **d. Recht auf Löschung**
+
+Sie können nach Art. 17 DS-GVO die Löschung Ihrer personenbezogenen Daten verlangen.
+
+#### **e. Recht auf Einschränkung der Verarbeitung**
+
+Sie haben nach Art. 18 DS-GVO das Recht, eine Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+
+#### **f. Recht auf Beschwerde**
+
+Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen Datenschutzrecht verstößt, haben Sie nach Ar. 77 Abs. 1 DS-GVO das Recht, sich bei einer Datenschutzaufsichtsbehörde eigener Wahl zu beschweren. Hierzu gehört auch die für den Verantwortlichen zuständige Datenschutzaufsichtsbehörde: Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen, *[https://www.ldi.nrw.de/kontakt/ihre-beschwerde](https://www.ldi.nrw.de/kontakt/ihre-beschwerde).*
+
+#### **g. Recht auf Datenübertragbarkeit**
+
+Für den Fall, dass die Voraussetzungen des Art. 20 Abs. 1 DS-GVO vorliegen, steht Ihnen das Recht zu, sich Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an Dritte aushändigen zu lassen. Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Protokolldateien sind für den Betrieb der Internetseite zwingend erforderlich. Sie beruhen daher nicht auf einer Einwilligung nach Art. 6 Abs. 1 Buchstabe a DS-GVO oder auf einem Vertrag nach Art. 6 Abs. 1 Buchstabe b DS-GVO, sondern sind nach Art. 6 Abs. 1 Buchstabe f DS-GVO gerechtfertigt. Die Voraussetzungen des Art. 20 Abs. 1 DS-GVO sind demnach insoweit nicht erfüllt.
+
+## **II. Recht auf Widerspruch gemäß Art. 21 Abs. 1 DS-GVO**
+
+Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Ihrer personenbezogenen Daten, die aufgrund von Artikel 6 Abs. 1 Buchstabe f DS-GVO erfolgt, Widerspruch einzulegen. Der Verantwortliche verarbeitet die personenbezogenen Daten dann nicht mehr, es sei denn, er kann zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Protokolldateien sind für den Betrieb der Internetseite zwingend erforderlich.

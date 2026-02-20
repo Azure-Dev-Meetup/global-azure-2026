@@ -65,43 +65,31 @@ languages:
         params:
             # Open Graph / X (Twitter) Cards
             description: |
-                A demo website to showcase the features of the "Event" theme for the
-                static website generator HUGO.
+                Global Azure Munich is a free full day conference for Azure developers and enthusiasts.
             themes:
                 event:
-                    slogan: Not a real conference - this is just a demo!
-                    location: Pforzheim, Germany
+                    slogan: A free conference for Azure developers and enthusiasts
+                    location: Munich, Germany
                     description: |
-                        This is a demo website to showcase the features of the __Event__ theme
-                        for the static website generator [Hugo](https://gohugo.io). You can
-                        find the source code of this website on
-                        [GitHub](https://github.com/medialesson/hugo-theme-event-demo). The theme
-                        can fetch data of any event from [Sessionize](https://sessionize.com) and
-                        automatically generates a schedule, a speaker list, and more. It also 
-                        integrates well with [Eventbrite](https://www.eventbrite.com) to sell tickets.
+                        **Global Azure** is a series of events organized by Azure enthusiasts around the world to celebrate Microsoft Azure cloud. These events typically take place over three days and include local, hybrid, and livestreamed sessions where participants can learn from the best community leaders about various Azure topics.
+
+                        **Global Azure Munich Edition** is the local event held in Munich, Germany. This year's edition will take place on Thursday, April 17, 2026, and will be hosted by Microsoft Deutschland at their Munich office. The event will feature sessions from various speakers, including community leaders and Microsoft experts, covering a wide range of Azure-related topics.
+
                     directions: |
                         #### By Public Transportation
-                        Take the number 25 bus from downtown. [Click here for the bus
-                        schedule](https://www.kvv.de/en/plan-trip/timetables.html).
+                        U6, stop Nordfriedhof and approx. 650m walk
+                        Tram 23, stop Anni-Albers Straße and approx. 650m walk
 
                         #### By Car:
-                        From Downtown: Take Main Street north for 2 miles and turn right on
-                        Elm Street. [Get
-                        directions](https://www.kvv.de/en/plan-trip/timetables.html).
+                        A9, exit München Schwabing
+                        **(There is no parking available at the event location)**
                     aboutUs: |
-                        ### Mission
-                        We help companies and organizations to digital transform their business, products and processes through consulting,
-                        strategy, design, software development and training using cutting edge technology.
-
-                        ### Established
-                        - **2002** - Founded
-
-                        ### Our Team
-                        - **25+** Employees
-                        - **5** Nationalities
-
-                        ### Additional Info
-                        - We bring together diverse expertise and innovation.
+                        ### Event Team 2026
+                        The Azure DEV Meetup is happy to bring you the Global Azure 2026 Munich edition once more. 
+                        
+                        #CommunityRocks 
+                        
+                        Thank you for the support in the preparation and on site goes to this great team!
 
     de:
         disabled: false
@@ -167,97 +155,80 @@ languages:
         params:
             # Open Graph / X (Twitter) Cards
             description: |
-                Eine Demo-Website die das Thema "Event" für den statischen
-                Website-Generator HUGO vorstellt.
+                Global Azure Munich is a free full day conference for Azure developers and enthusiasts.
             themes:
                 event:
-                    slogan: Keine echte Konferenz - nur eine Demo!
-                    location: Pforzheim
+                    slogan: Eine kostenlose Konferenz für Azure Entwickler und Interessierte
+                    location: München
                     description: |
-                        Dies ist eine Demo-Website, um die Funktionen des Thema __Event__
-                        für den statischen Website-Generator [Hugo](https://gohugo.io)
-                        vorzustellen. Der Quellcode dieser Website steht auf
-                        [GitHub](https://github.com/medialesson/hugo-theme-event-demo)
-                        bereit. Das Thema kann Daten einer beliebigen Veranstaltung von
-                        [Sessionize](https://sessionize.com) abrufen und generiert
-                        automatisch einen Zeitplan, eine Rednerliste und mehr. Es lässt sich
-                        zudem gut mit [Eventbrite](https://www.eventbrite.com) integrieren,
-                        um Tickets zu verkaufen.
+                      **Global Azure** ist eine Reihe von Veranstaltungen, die von Azure-Enthusiasten auf der ganzen Welt organisiert werden, um die Microsoft Azure Cloud zu feiern. Diese Veranstaltungen finden typischerweise über drei Tage statt und beinhalten lokale, hybride und livestreamed Sessions, bei denen die Teilnehmer von den besten Community-Leadern über verschiedene Azure-Themen lernen können.
+
+                      **Global Azure München** ist dabei die lokale Ausgabe. Die diesjährige Ausgabe findet am Donnerstag, den 17. April 2026, statt und wird von Microsoft Deutschland in ihrem Münchener Büro ausgerichtet. Die Veranstaltung wird Sessions von verschiedenen Sprechern, darunter Community-Leader und Microsoft-Experten, umfassen, die eine breite Palette von Azure-bezogenen Themen abdecken.
+
                     directions: |
                         #### Mit den Öffentlichen:
-                        Nehmen Sie den Bus Nummer 25 vom Stadtzentrum. [Hier klicken für den
-                        Busfahrplan](https://www.kvv.de/en/plan-trip/timetables.html).
+                        U6, Haltestelle Nordfriedhof und ca. 650m zu Fuß
+                        Tram 23, Haltestelle Anni-Albers Straße und ca. 650m zu Fuß
 
                         #### Mit dem Auto:
-                        Fahren Sie vom Stadtzentrum aus 2 Meilen nach Norden auf der Main
-                        Street und biegen Sie dann rechts in die Elm Street ab.
-                        [Wegbeschreibung
-                        abrufen](https://www.kvv.de/en/plan-trip/timetables.html).
+                        A9, Ausfahrt München Schwabing
+                        (Es gibt vor Ort keine unmittelbaren Parkmöglichkeiten)
 
                     aboutUs: |
-                        ### Mission
-                        Wir helfen Unternehmen und Organisationen, ihr Geschäft, ihre Produkte und Prozesse durch Beratung, Strategie, Design, Softwareentwicklung und Schulungen mit modernster Technologie digital zu transformieren.
-
-                        ### Gründung
-                        - **2002** - Gegründet
-
-                        ### Unser Team
-                        - **25+** Mitarbeiter
-                        - **5** Nationalitäten
-
-                        ### Zusätzliche Informationen
-                        - Wir vereinen vielfältige Expertise und Innovation.
+                        ### Event Team 2026
+                        Das Azure DEV Meetup freut sich, dass wir Global Azure 2026 wieder nach München bringen können!
+                        
+                        #CommunityRocks 
+                        
+                        Vielen Dank an alle, die hierzu beigetragen haben!
 
 params:
     # Open Graph / X (Twitter) Cards
     images:
-        - logos/medicon-512.jpg
+        - logos/GlobalAzure2026-500.png
     themes:
         event:
-            sessionizeId: l39raaao
-            title: Global Azure Munich
-            shortTitle:
+            sessionizeId: ybpvgk67
+            title: Global Azure Munich 2026
+            shortTitle: Global Azure Muc
             startDate: 2026-04-17
             endDate: 2026-04-17
             address:
-                - Medialesson GmbH
-                - Habermehlstraße 15
-                - 75172 Pforzheim
+                - Microsoft Deutschland GmbH
+                - Walter-Gropius-Straße 5
+                - 80807 München
                 - Germany
             map:
-                embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
-                viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
+                embeddableMapUrl: //umap.openstreetmap.de/de/map/unbenannte-karte_68282?scrollWheelZoom=false
+                viewLargerMapUrl: //umap.openstreetmap.de/de/map/unbenannte-karte_68282
                 # Link to edit the map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1105977:HjtVVnbwCn6Yi3O02DTPnspzuyoHvP_Kn-M9rE53eE8
             callToAction:
                 eventbrite:
-                    eventId: 976108886957
+                    eventId: 
             socialLinks:
-                xUrl: https://x.com/medialesson
-                facebookUrl: https://www.facebook.com/medialesson/
-                linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
+                # xUrl: https://x.com/medialesson
+                # facebookUrl: https://www.facebook.com/medialesson/
+                linkedinUrl: https://www.linkedin.com/company/azure-dev-meetup-munich
             images:
-                logo: logos/medicon-512.webp
-                titleBackground: images/pexels-caleboquendo-3023317.webp
-                location: images/habermehlstr.webp
+                logo: logos/GlobalAzure2026-500.png
+                titleBackground: images/munich-1280.jpg
+                location: images/microsoft.png
             sponsors:
+                - logo: logos/microsoft.png
+                  url: https://www.microsoft.com/
                 - logo: logos/medialesson-logo.svg
-                  url: https://www.media-lesson.com/
-                  name: 'Medialesson GmbH'
-            partners:
-                - logo: logos/medialesson-logo.svg
-                  url: https://www.media-lesson.com/
+                  url: https://www.medialesson.de/
                   name: 'Medialesson GmbH'
             organizers:
-                - '00000000-0000-0000-0000-000000000000'
-                - '00000000-0000-0000-0000-000000000001'
-                - '00000000-0000-0000-0000-000000000004'
-                - '00000000-0000-0000-0000-000000000002'
-            featuredSessions:
-                - '729572'
-                - '729576'
-                - '729579'
+                - 'ab929857-c12d-4e4c-b4c9-4f3cab77573a'
+                - 'a5b09459-7526-4459-830d-7fb2bcdd9048'
+                - '8e566a51-ad28-4335-80c6-faf5d1a6e3a7'
+            # featuredSessions:
+            #     - '729572'
+            #     - '729576'
+            #     - '729579'
             colors:
-                primaryLighter: '#5CB1E8'
-                primary: '#0d81be'
-                primaryDarker: '#143e8b'
-                track: '#15B8CA'
+                primaryLighter: '#1363ac'
+                primary: '#0d4d85'
+                primaryDarker: '#02102c'
+                track: '#02102c'

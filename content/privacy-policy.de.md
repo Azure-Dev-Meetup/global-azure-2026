@@ -1,6 +1,5 @@
 # Datenschutz
 
-**+++ DIESE SEITE IST NUR EIN MUSTER +++**
 
 **I. Informationen über die Verarbeitung Ihrer Daten gemäß Art. 13 der Datenschutz-Grundverordnung (DS-GVO)**
 
@@ -8,15 +7,14 @@
 
 Verantwortlich für diese Website ist
 
-\[Name, Postadresse, E-Mail-Adresse des Verantwortlichen\].
+Thomas Pentenrieder \
+Kastanienweg 3a \
+82319 Starnberg
 
 Den Datenschutzbeauftragten erreichen Sie per E-Mail unter
 
-\[E-Mail-Adresse des Datenschutzbeauftragten\]
+meetup@azuredev.org
 
-oder über die Adresse
-
-\[ggf. auch die Postadresse des Datenschutzbeauftragten\].
 
 ### **2\. Daten, die für die Bereitstellung der Website und die Erstellung der Protokolldateien verarbeitet werden**
 
@@ -50,13 +48,10 @@ Die vorübergehende Speicherung der Daten ist für den Ablauf eines Websitebesuc
 
 Die Daten werden auf der Grundlage des Art. 6 Abs. 1 Buchstabe f DS-GVO verarbeitet.
 
-#### **c. \[Bei Bedarf\] Gibt es neben dem Verantwortlichen weitere Empfänger der personenbezogenen Daten?**
-
-Die Website wird bei \[Name, Postadresse, E-Mail-Adresse des Hosters\] gehostet. Der Hoster empfängt die oben genannten Daten als Auftragsverarbeiter.
 
 #### **d. Wie lange werden die Daten gespeichert?**
 
-Die Daten werden gelöscht, sobald sie für die Erreichung des Zwecks ihrer Erhebung nicht mehr erforderlich sind. Bei der Bereitstellung der Website ist dies der Fall, wenn die jeweilige Sitzung beendet ist. Die Protokolldateien werden \[…, maximal bis zu 24 Stunden\] direkt und ausschließlich für Administratoren zugänglich aufbewahrt. Danach sind sie nur noch indirekt über die Rekonstruktion von Sicherungsbändern verfügbar und werden nach \[…, maximal vier Wochen\] endgültig gelöscht.
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zwecks ihrer Erhebung nicht mehr erforderlich sind. Bei der Bereitstellung der Website ist dies der Fall, wenn die jeweilige Sitzung beendet ist. Die Protokolldateien werden maximal bis zu 24 Stunden direkt und ausschließlich für Administratoren zugänglich aufbewahrt. Danach sind sie nur noch indirekt über die Rekonstruktion von Sicherungsbändern verfügbar und werden nach maximal vier Wochen endgültig gelöscht.
 
 ### **3\. Betroffenenrechte**
 
