@@ -1,3 +1,6 @@
 menu.imprint: Impressum
 menu.privacy: Datenschutz
 cta_banner.message: Jetzt schnell gratis Ticket sichern!
+sessions_page.session_selection_in_progress: >-
+    Wir befinden uns derzeit in der Auswahl der Session-Vorschläge. Das
+    Programm wird in Kürze um weitere Sessions ergänzt.
