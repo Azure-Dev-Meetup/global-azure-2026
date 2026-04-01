@@ -226,10 +226,10 @@ params:
                 - 'a5b09459-7526-4459-830d-7fb2bcdd9048'
                 - 'edd651d2-06fe-4e6f-8921-708966bc371d'
                 - '0d73d7a0-6bae-40e6-999b-50831532e786'
-            # featuredSessions:
-            #     - '729572'
-            #     - '729576'
-            #     - '729579'
+            featuredSessions:
+                - '1196858'
+                - '1175883'
+                - '1169642'
             colors:
                 primaryLighter: '#1363ac'
                 primary: '#0d4d85'
