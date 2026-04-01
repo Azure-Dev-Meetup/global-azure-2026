@@ -214,6 +214,8 @@ params:
                 titleBackground: images/munich-1280.jpg
                 location: images/microsoft.png
             sponsors:
+                - logo: logos/in2success.png
+                  url: https://www.in2success.de/
                 - logo: logos/microsoft.png
                   url: https://www.microsoft.com/
                 - logo: logos/medialesson-logo.svg
