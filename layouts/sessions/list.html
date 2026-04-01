@@ -72,12 +72,6 @@
         </div>
     </header>
 
-    <div class="section-container">
-        <div class="section">
-            <p class="session-selection-notice">{{ T "sessions_page.session_selection_in_progress" }}</p>
-        </div>
-    </div>
-
     <div class="section-container section-container--dimmed">
         {{- range $index, $element := $sessionsGroupedByDay }}
             <section class="section session-day-section" data-day="{{ $index }}">
