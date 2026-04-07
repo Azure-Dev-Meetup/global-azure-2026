@@ -230,6 +230,7 @@ params:
                 - '1196858'
                 - '1175883'
                 - '1169642'
+            disableGenerator: false
             colors:
                 primaryLighter: '#1363ac'
                 primary: '#0d4d85'
