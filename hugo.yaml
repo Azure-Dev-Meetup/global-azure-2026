@@ -226,10 +226,9 @@ params:
                 - logo: logos/medialesson-logo.svg
                   url: https://www.medialesson.de/
                   name: 'Medialesson GmbH'
-                # - logo: logos/schedules.png
-                #   url: https://schedulesforteams.com/
-                #   name: Schedules for Microsoft Teams
-                - 
+                - logo: logos/schedules.png
+                  url: https://schedulesforteams.com/
+                  name: 'Schedules for Microsoft Teams'
             organizers:
                 - 'ab929857-c12d-4e4c-b4c9-4f3cab77573a'
                 - 'a5b09459-7526-4459-830d-7fb2bcdd9048'
