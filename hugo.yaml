@@ -216,13 +216,20 @@ params:
             sponsors:
                 - logo: logos/in2success.png
                   url: https://www.in2success.de/
+                  name: in2success GmbH
                 - logo: logos/DocuWare.svg
                   url: https://docuware.com/
+                  name: DocuWare GmbH
                 - logo: logos/microsoft.png
                   url: https://www.microsoft.com/
+                  name: Microsoft
                 - logo: logos/medialesson-logo.svg
                   url: https://www.medialesson.de/
                   name: 'Medialesson GmbH'
+                - logo: logos/schedules.png
+                  url: http://schedulesforteams.com/
+                  name: Schedules for Microsoft Teams
+                - 
             organizers:
                 - 'ab929857-c12d-4e4c-b4c9-4f3cab77573a'
                 - 'a5b09459-7526-4459-830d-7fb2bcdd9048'
