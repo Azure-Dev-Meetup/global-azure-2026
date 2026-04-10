@@ -216,6 +216,8 @@ params:
             sponsors:
                 - logo: logos/in2success.png
                   url: https://www.in2success.de/
+                - logo: logos/DocuWare.svg
+                  url: https://docuware.com/
                 - logo: logos/microsoft.png
                   url: https://www.microsoft.com/
                 - logo: logos/medialesson-logo.svg
